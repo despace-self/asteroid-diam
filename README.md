@@ -1,5 +1,5 @@
 # asteroid-diam
-This contains the findings from a JPL open asteroid dataset exploration attempt by me.
+This contains the findings from a JPL open asteroid dataset exploration attempt.
 
 I recently worked on a machine learning experiment using asteroid data officially maintained by the Jet Propulsion Laboratory (JPL) of the California Institute of Technology, which operates under NASA. This dataset includes extensive information on asteroids, including orbital parameters, physical properties, and observational details. It is publicly available at JPL's Small-Body Database Query.
 
